@@ -2,3 +2,4 @@ Hello Git - created on local disk and then pushed to main branch
 Feature-1
 Checked - Auto Merge
 Ok, bye
+trying with auto merge
